@@ -1,4 +1,5 @@
 💱 Professional Currency Converter
+
 A modern, user-friendly desktop application for real-time currency conversion supporting 150+ global currencies. Built with Python and Tkinter, featuring live exchange rates and an intuitive interface.
     <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/47825cea-5798-42bd-abd9-06ec44fae729" />
 
